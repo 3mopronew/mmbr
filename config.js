@@ -9,7 +9,7 @@ module.exports = {
 "TheLinkVerfy": "",
 "prefix": "-",
 "ceatogry": "1372571814315950131",
-"TOKEN": "MTM3MjYwODg0MzY4NjYwODkxNw.GlWUV-.Py3jtnXKUfqfcQSkExKZr8IAhtI7cuwgzt-YOM",
+"TOKEN": process.env.token,
 "BANK": "",
 "price": "1",
 "channelId": "1372571814764478466",
